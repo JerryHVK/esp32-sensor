@@ -1,0 +1,1 @@
+C:\Users\hh\source\repos\Esp32_MQTT\esp32_mqtt.client\obj\Debug\esp32_mqtt.client.esproj.CoreCompileInputs.cache

@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "0Sar5rCKEXgP0iHP6tyrFI35My0caqwcgvGdKimE3wY=",
+  "Source": "Esp32_MQTT.Server",
+  "BasePath": "_content/Esp32_MQTT.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\esp32_mqtt.client\\esp32_mqtt.client.esproj",
+      "Version": 2,
+      "Source": "esp32_mqtt.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

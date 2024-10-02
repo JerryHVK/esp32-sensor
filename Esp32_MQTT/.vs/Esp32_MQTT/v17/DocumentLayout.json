@@ -1,0 +1,437 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B845EA5D-FB9A-4D16-B3D4-1876BD987D7A}|Esp32_MQTT.Server\\Esp32_MQTT.Server.csproj|c:\\users\\hh\\source\\repos\\esp32_mqtt\\esp32_mqtt.server\\services\\mqttservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B845EA5D-FB9A-4D16-B3D4-1876BD987D7A}|Esp32_MQTT.Server\\Esp32_MQTT.Server.csproj|solutionrelative:esp32_mqtt.server\\services\\mqttservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E4ED79-FABC-4954-935F-8A436206C4F5}|esp32_mqtt.client\\esp32_mqtt.client.esproj|c:\\users\\hh\\source\\repos\\esp32_mqtt\\esp32_mqtt.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A6E4ED79-FABC-4954-935F-8A436206C4F5}|esp32_mqtt.client\\esp32_mqtt.client.esproj|solutionrelative:esp32_mqtt.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E4ED79-FABC-4954-935F-8A436206C4F5}|esp32_mqtt.client\\esp32_mqtt.client.esproj|c:\\users\\hh\\source\\repos\\esp32_mqtt\\esp32_mqtt.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6E4ED79-FABC-4954-935F-8A436206C4F5}|esp32_mqtt.client\\esp32_mqtt.client.esproj|solutionrelative:esp32_mqtt.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E4ED79-FABC-4954-935F-8A436206C4F5}|esp32_mqtt.client\\esp32_mqtt.client.esproj|c:\\users\\hh\\source\\repos\\esp32_mqtt\\esp32_mqtt.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A6E4ED79-FABC-4954-935F-8A436206C4F5}|esp32_mqtt.client\\esp32_mqtt.client.esproj|solutionrelative:esp32_mqtt.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E4ED79-FABC-4954-935F-8A436206C4F5}|esp32_mqtt.client\\esp32_mqtt.client.esproj|c:\\users\\hh\\source\\repos\\esp32_mqtt\\esp32_mqtt.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A6E4ED79-FABC-4954-935F-8A436206C4F5}|esp32_mqtt.client\\esp32_mqtt.client.esproj|solutionrelative:esp32_mqtt.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E4ED79-FABC-4954-935F-8A436206C4F5}|esp32_mqtt.client\\esp32_mqtt.client.esproj|c:\\users\\hh\\source\\repos\\esp32_mqtt\\esp32_mqtt.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A6E4ED79-FABC-4954-935F-8A436206C4F5}|esp32_mqtt.client\\esp32_mqtt.client.esproj|solutionrelative:esp32_mqtt.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E4ED79-FABC-4954-935F-8A436206C4F5}|esp32_mqtt.client\\esp32_mqtt.client.esproj|c:\\users\\hh\\source\\repos\\esp32_mqtt\\esp32_mqtt.client\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A6E4ED79-FABC-4954-935F-8A436206C4F5}|esp32_mqtt.client\\esp32_mqtt.client.esproj|solutionrelative:esp32_mqtt.client\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E4ED79-FABC-4954-935F-8A436206C4F5}|esp32_mqtt.client\\esp32_mqtt.client.esproj|c:\\users\\hh\\source\\repos\\esp32_mqtt\\esp32_mqtt.client\\src\\assets\\react.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A6E4ED79-FABC-4954-935F-8A436206C4F5}|esp32_mqtt.client\\esp32_mqtt.client.esproj|solutionrelative:esp32_mqtt.client\\src\\assets\\react.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B845EA5D-FB9A-4D16-B3D4-1876BD987D7A}|Esp32_MQTT.Server\\Esp32_MQTT.Server.csproj|c:\\users\\hh\\source\\repos\\esp32_mqtt\\esp32_mqtt.server\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B845EA5D-FB9A-4D16-B3D4-1876BD987D7A}|Esp32_MQTT.Server\\Esp32_MQTT.Server.csproj|solutionrelative:esp32_mqtt.server\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E4ED79-FABC-4954-935F-8A436206C4F5}|esp32_mqtt.client\\esp32_mqtt.client.esproj|c:\\users\\hh\\source\\repos\\esp32_mqtt\\esp32_mqtt.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A6E4ED79-FABC-4954-935F-8A436206C4F5}|esp32_mqtt.client\\esp32_mqtt.client.esproj|solutionrelative:esp32_mqtt.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E4ED79-FABC-4954-935F-8A436206C4F5}|esp32_mqtt.client\\esp32_mqtt.client.esproj|c:\\users\\hh\\source\\repos\\esp32_mqtt\\esp32_mqtt.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A6E4ED79-FABC-4954-935F-8A436206C4F5}|esp32_mqtt.client\\esp32_mqtt.client.esproj|solutionrelative:esp32_mqtt.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E4ED79-FABC-4954-935F-8A436206C4F5}|esp32_mqtt.client\\esp32_mqtt.client.esproj|c:\\users\\hh\\source\\repos\\esp32_mqtt\\esp32_mqtt.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A6E4ED79-FABC-4954-935F-8A436206C4F5}|esp32_mqtt.client\\esp32_mqtt.client.esproj|solutionrelative:esp32_mqtt.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B845EA5D-FB9A-4D16-B3D4-1876BD987D7A}|Esp32_MQTT.Server\\Esp32_MQTT.Server.csproj|c:\\users\\hh\\source\\repos\\esp32_mqtt\\esp32_mqtt.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B845EA5D-FB9A-4D16-B3D4-1876BD987D7A}|Esp32_MQTT.Server\\Esp32_MQTT.Server.csproj|solutionrelative:esp32_mqtt.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B845EA5D-FB9A-4D16-B3D4-1876BD987D7A}|Esp32_MQTT.Server\\Esp32_MQTT.Server.csproj|c:\\users\\hh\\source\\repos\\esp32_mqtt\\esp32_mqtt.server\\models\\domain\\max30102.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B845EA5D-FB9A-4D16-B3D4-1876BD987D7A}|Esp32_MQTT.Server\\Esp32_MQTT.Server.csproj|solutionrelative:esp32_mqtt.server\\models\\domain\\max30102.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E4ED79-FABC-4954-935F-8A436206C4F5}|esp32_mqtt.client\\esp32_mqtt.client.esproj|c:\\users\\hh\\source\\repos\\esp32_mqtt\\esp32_mqtt.client\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A6E4ED79-FABC-4954-935F-8A436206C4F5}|esp32_mqtt.client\\esp32_mqtt.client.esproj|solutionrelative:esp32_mqtt.client\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E4ED79-FABC-4954-935F-8A436206C4F5}|esp32_mqtt.client\\esp32_mqtt.client.esproj|c:\\users\\hh\\source\\repos\\esp32_mqtt\\esp32_mqtt.client\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A6E4ED79-FABC-4954-935F-8A436206C4F5}|esp32_mqtt.client\\esp32_mqtt.client.esproj|solutionrelative:esp32_mqtt.client\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E4ED79-FABC-4954-935F-8A436206C4F5}|esp32_mqtt.client\\esp32_mqtt.client.esproj|c:\\users\\hh\\source\\repos\\esp32_mqtt\\esp32_mqtt.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A6E4ED79-FABC-4954-935F-8A436206C4F5}|esp32_mqtt.client\\esp32_mqtt.client.esproj|solutionrelative:esp32_mqtt.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B845EA5D-FB9A-4D16-B3D4-1876BD987D7A}|Esp32_MQTT.Server\\Esp32_MQTT.Server.csproj|c:\\users\\hh\\source\\repos\\esp32_mqtt\\esp32_mqtt.server\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B845EA5D-FB9A-4D16-B3D4-1876BD987D7A}|Esp32_MQTT.Server\\Esp32_MQTT.Server.csproj|solutionrelative:esp32_mqtt.server\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B845EA5D-FB9A-4D16-B3D4-1876BD987D7A}|Esp32_MQTT.Server\\Esp32_MQTT.Server.csproj|c:\\users\\hh\\source\\repos\\esp32_mqtt\\esp32_mqtt.server\\models\\dto\\getdatarequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B845EA5D-FB9A-4D16-B3D4-1876BD987D7A}|Esp32_MQTT.Server\\Esp32_MQTT.Server.csproj|solutionrelative:esp32_mqtt.server\\models\\dto\\getdatarequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B845EA5D-FB9A-4D16-B3D4-1876BD987D7A}|Esp32_MQTT.Server\\Esp32_MQTT.Server.csproj|c:\\users\\hh\\source\\repos\\esp32_mqtt\\esp32_mqtt.server\\migrations\\20240915034449_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B845EA5D-FB9A-4D16-B3D4-1876BD987D7A}|Esp32_MQTT.Server\\Esp32_MQTT.Server.csproj|solutionrelative:esp32_mqtt.server\\migrations\\20240915034449_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B845EA5D-FB9A-4D16-B3D4-1876BD987D7A}|Esp32_MQTT.Server\\Esp32_MQTT.Server.csproj|c:\\users\\hh\\source\\repos\\esp32_mqtt\\esp32_mqtt.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B845EA5D-FB9A-4D16-B3D4-1876BD987D7A}|Esp32_MQTT.Server\\Esp32_MQTT.Server.csproj|solutionrelative:esp32_mqtt.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B845EA5D-FB9A-4D16-B3D4-1876BD987D7A}|Esp32_MQTT.Server\\Esp32_MQTT.Server.csproj|c:\\users\\hh\\source\\repos\\esp32_mqtt\\esp32_mqtt.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B845EA5D-FB9A-4D16-B3D4-1876BD987D7A}|Esp32_MQTT.Server\\Esp32_MQTT.Server.csproj|solutionrelative:esp32_mqtt.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B845EA5D-FB9A-4D16-B3D4-1876BD987D7A}|Esp32_MQTT.Server\\Esp32_MQTT.Server.csproj|c:\\users\\hh\\source\\repos\\esp32_mqtt\\esp32_mqtt.server\\repositories\\sqlmax30102repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B845EA5D-FB9A-4D16-B3D4-1876BD987D7A}|Esp32_MQTT.Server\\Esp32_MQTT.Server.csproj|solutionrelative:esp32_mqtt.server\\repositories\\sqlmax30102repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B845EA5D-FB9A-4D16-B3D4-1876BD987D7A}|Esp32_MQTT.Server\\Esp32_MQTT.Server.csproj|c:\\users\\hh\\source\\repos\\esp32_mqtt\\esp32_mqtt.server\\repositories\\imax30102repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B845EA5D-FB9A-4D16-B3D4-1876BD987D7A}|Esp32_MQTT.Server\\Esp32_MQTT.Server.csproj|solutionrelative:esp32_mqtt.server\\repositories\\imax30102repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B845EA5D-FB9A-4D16-B3D4-1876BD987D7A}|Esp32_MQTT.Server\\Esp32_MQTT.Server.csproj|c:\\users\\hh\\source\\repos\\esp32_mqtt\\esp32_mqtt.server\\models\\dto\\adddatarequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B845EA5D-FB9A-4D16-B3D4-1876BD987D7A}|Esp32_MQTT.Server\\Esp32_MQTT.Server.csproj|solutionrelative:esp32_mqtt.server\\models\\dto\\adddatarequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B845EA5D-FB9A-4D16-B3D4-1876BD987D7A}|Esp32_MQTT.Server\\Esp32_MQTT.Server.csproj|c:\\users\\hh\\source\\repos\\esp32_mqtt\\esp32_mqtt.server\\data\\max30102dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B845EA5D-FB9A-4D16-B3D4-1876BD987D7A}|Esp32_MQTT.Server\\Esp32_MQTT.Server.csproj|solutionrelative:esp32_mqtt.server\\data\\max30102dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\esp32_mqtt.client\\src\\main.jsx",
+              "RelativeDocumentMoniker": "esp32_mqtt.client\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\esp32_mqtt.client\\src\\main.jsx",
+              "RelativeToolTip": "esp32_mqtt.client\\src\\main.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-09-27T03:23:40.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "eslint.config.js",
+              "DocumentMoniker": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\esp32_mqtt.client\\eslint.config.js",
+              "RelativeDocumentMoniker": "esp32_mqtt.client\\eslint.config.js",
+              "ToolTip": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\esp32_mqtt.client\\eslint.config.js",
+              "RelativeToolTip": "esp32_mqtt.client\\eslint.config.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-27T03:23:41.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\esp32_mqtt.client\\index.html",
+              "RelativeDocumentMoniker": "esp32_mqtt.client\\index.html",
+              "ToolTip": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\esp32_mqtt.client\\index.html",
+              "RelativeToolTip": "esp32_mqtt.client\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-27T03:23:50.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\esp32_mqtt.client\\src\\App.css",
+              "RelativeDocumentMoniker": "esp32_mqtt.client\\src\\App.css",
+              "ToolTip": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\esp32_mqtt.client\\src\\App.css",
+              "RelativeToolTip": "esp32_mqtt.client\\src\\App.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-27T03:23:37.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\esp32_mqtt.client\\vite.config.js",
+              "RelativeDocumentMoniker": "esp32_mqtt.client\\vite.config.js",
+              "ToolTip": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\esp32_mqtt.client\\vite.config.js",
+              "RelativeToolTip": "esp32_mqtt.client\\vite.config.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-20T02:47:51.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\Esp32_MQTT.Server\\Program.cs",
+              "RelativeDocumentMoniker": "Esp32_MQTT.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\Esp32_MQTT.Server\\Program.cs",
+              "RelativeToolTip": "Esp32_MQTT.Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:29:04.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "react.svg",
+              "DocumentMoniker": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\esp32_mqtt.client\\src\\assets\\react.svg",
+              "RelativeDocumentMoniker": "esp32_mqtt.client\\src\\assets\\react.svg",
+              "ToolTip": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\esp32_mqtt.client\\src\\assets\\react.svg",
+              "RelativeToolTip": "esp32_mqtt.client\\src\\assets\\react.svg",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAT2SURBVEhLtVZ9bBNlHH7uev24dutGyzpG91XZQAaywRwoyARBhUQJ4HAhQ000DKf/yLboP4Z/xJgQJwgBImwJ6uYfzKmIkmim4EwkRFjHhhsCA7fC2LotW7f1u3fn\u002B769knaDhJj4pM/93rv7vc/zfl/xv0JRFE4tJqClpeUICVW0THJoYHF6OY5HKyoq3mIvHwbEgNR5ODidTqW5uVlpamqijZoBXo33BanPKFPKpCzLpExIoyxBkiTcvHkTZWVl9FlVfX39DJP7GlBRFgl9ISLkcSI8eBzS7UIE2mdj6lcRvj8KoAT67uWWl5dTw6qDBw8mmMyYA/Our4SaEmM4MmcBIPVjfdZJFCRdhjh4A3IoAo3tdcj8YvCaAIJ/H0Jr6ENs27YN4XAYwWAQDQ0NMJlMR3fu3MnmJMFgTvW3jjRLSn2RY/Yzzy1Lx2rLPswNN2D8dw3OK1vRjbUwZ5TgjVW5EHgOw5\u002Bno8fRDJfLxcRDoRByc3MxMDCAyspKpi0wZYI51d/l2FKTTj9bujh/Q54HK/QVSBpvRd\u002BFNehctAddwuO4MTSFW3/dxt2xKex5cRF0WRtQXLyMifoDfogGEenp6WhsbFRV1Tmgw2JNTT6xvvSx\u002BeWPunSl\u002Bq1IutaKC6dLsVf6GE0XU\u002BF2jSPbZsbCJQ50eHh88H03tPmvQjQakZmZifx5\u002BbDb7TCS\u002B9i8UDADqzXlhYU5tryNeW6hiN8BbWcXLndshG37D/hsexHqNuejMEnCUHc/zDot0uxpcLr96OWX0RVBFMgK42QqxTDDINkobN5SLFieFCs5obcHl50rUfTmGeRYjSwpw2zAaysyMTY\u002BiRReC17QQDAZ8XX7AHvPQPesKkyXcQxsDrJn6UtWW/eLxonz6Ol7BfusuzF2\u002BALCZJ3T1kQpk\u002BEwIaABRK0GilaLK3dGmCjrA7nEVkx8D5jBrhUXszPlLzlX61KcW/kRlhhs0Ur0JbmwsmokBcm\u002B8AJh0kopIoG2lSMJHMli\u002BQQJBoq3YLV37JDoOatXTq06zY1pZiu/nbnEyZEwzaQ/VpVVIqTdp/dU8AmHhYmzE43lRZFo4BvapLk7qjkl7Q65pVRdKCRNCiGv\u002BafqdQgTEybAUqMtjN5Tw\u002BiQsKfqM04dpHgDXpkYfcpzVT/xs1Q2fL1/lB48JlvOXNR\u002B003G2IMIOYO8ZAd3353AOyc7sfZAG9Z80oZ1n7ah2XmHiVBBKh4TTuiBz8UV6FLkRmeHZ7FuFLOSjQajPS8bwYkp7D3bh\u002BFhD0SdBmZzEhwL8lEyn4d7ZAKTvb3YUpjBWs9mgIjGZBMM5AAky6bw29k1UzZ9IPLLlQ7ZYZ\u002BXY0pPS4ajaCEeUVdfiEyoa8QDz9AoImOj2P9SITTkuLin\u002BgDwHI8f3V/gvf66l91Z6HyeG7/aPtjVgZ72q/iz/Roudf2DK5030Nt1HZ5b/ZgV9uJweRHybCZmHG236hILcT3gOUF5l9Niw\u002B0DUE6kvt/WaKw8s1wcOrfKboLFPwntyCCylACWWwXUPJ2D\u002Bh1LkW2JHgfRKVXBRKPC8Qb3BflwXCRJSjAYUAKUAUq/EvBT\u002Blj0k\u002Bj3Efq9ii8uUtTV1d1zeNAHp5hGnU4PPaWe0gC9gVJk0UCiQSQ0GCHGRbU\u002BixQJvYzh2LFjR0hSFU2kZJtLLU8nxfQywdHa2tqH/xPw3wH8C2\u002BS5E7KNyxKAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-09-27T03:24:55.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MqttService.cs",
+              "DocumentMoniker": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\Esp32_MQTT.Server\\Services\\MqttService.cs",
+              "RelativeDocumentMoniker": "Esp32_MQTT.Server\\Services\\MqttService.cs",
+              "ToolTip": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\Esp32_MQTT.Server\\Services\\MqttService.cs",
+              "RelativeToolTip": "Esp32_MQTT.Server\\Services\\MqttService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T01:29:09.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launch.json",
+              "DocumentMoniker": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\esp32_mqtt.client\\.vscode\\launch.json",
+              "RelativeDocumentMoniker": "esp32_mqtt.client\\.vscode\\launch.json",
+              "ToolTip": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\esp32_mqtt.client\\.vscode\\launch.json",
+              "RelativeToolTip": "esp32_mqtt.client\\.vscode\\launch.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-29T07:05:33.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\esp32_mqtt.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "esp32_mqtt.client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\esp32_mqtt.client\\src\\App.jsx",
+              "RelativeToolTip": "esp32_mqtt.client\\src\\App.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-09-27T03:23:38.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\esp32_mqtt.client\\src\\index.css",
+              "RelativeDocumentMoniker": "esp32_mqtt.client\\src\\index.css",
+              "ToolTip": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\esp32_mqtt.client\\src\\index.css",
+              "RelativeToolTip": "esp32_mqtt.client\\src\\index.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-27T03:23:39.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\esp32_mqtt.client\\.gitignore",
+              "RelativeDocumentMoniker": "esp32_mqtt.client\\.gitignore",
+              "ToolTip": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\esp32_mqtt.client\\.gitignore",
+              "RelativeToolTip": "esp32_mqtt.client\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-27T03:24:33.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataController.cs",
+              "DocumentMoniker": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\Esp32_MQTT.Server\\Controllers\\DataController.cs",
+              "RelativeDocumentMoniker": "Esp32_MQTT.Server\\Controllers\\DataController.cs",
+              "ToolTip": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\Esp32_MQTT.Server\\Controllers\\DataController.cs",
+              "RelativeToolTip": "Esp32_MQTT.Server\\Controllers\\DataController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:29:33.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Max30102.cs",
+              "DocumentMoniker": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\Esp32_MQTT.Server\\Models\\Domain\\Max30102.cs",
+              "RelativeDocumentMoniker": "Esp32_MQTT.Server\\Models\\Domain\\Max30102.cs",
+              "ToolTip": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\Esp32_MQTT.Server\\Models\\Domain\\Max30102.cs",
+              "RelativeToolTip": "Esp32_MQTT.Server\\Models\\Domain\\Max30102.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T04:20:02.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CHANGELOG.md",
+              "DocumentMoniker": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\esp32_mqtt.client\\CHANGELOG.md",
+              "RelativeDocumentMoniker": "esp32_mqtt.client\\CHANGELOG.md",
+              "ToolTip": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\esp32_mqtt.client\\CHANGELOG.md",
+              "RelativeToolTip": "esp32_mqtt.client\\CHANGELOG.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-09-27T03:24:06.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "nuget.config",
+              "DocumentMoniker": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\esp32_mqtt.client\\nuget.config",
+              "RelativeDocumentMoniker": "esp32_mqtt.client\\nuget.config",
+              "ToolTip": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\esp32_mqtt.client\\nuget.config",
+              "RelativeToolTip": "esp32_mqtt.client\\nuget.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-27T03:23:52.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\esp32_mqtt.client\\package.json",
+              "RelativeDocumentMoniker": "esp32_mqtt.client\\package.json",
+              "ToolTip": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\esp32_mqtt.client\\package.json",
+              "RelativeToolTip": "esp32_mqtt.client\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-27T03:23:58.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\Esp32_MQTT.Server\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "Esp32_MQTT.Server\\Mappings\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\Esp32_MQTT.Server\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "Esp32_MQTT.Server\\Mappings\\AutoMapperProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:27:52.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetDataRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\Esp32_MQTT.Server\\Models\\DTO\\GetDataRequestDto.cs",
+              "RelativeDocumentMoniker": "Esp32_MQTT.Server\\Models\\DTO\\GetDataRequestDto.cs",
+              "ToolTip": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\Esp32_MQTT.Server\\Models\\DTO\\GetDataRequestDto.cs",
+              "RelativeToolTip": "Esp32_MQTT.Server\\Models\\DTO\\GetDataRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:24:25.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\Esp32_MQTT.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Esp32_MQTT.Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\Esp32_MQTT.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Esp32_MQTT.Server\\Properties\\launchSettings.json",
+              "ViewState": "AQIAACkAAAAAAAAAAABRwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-15T03:40:04.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240915034449_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\Esp32_MQTT.Server\\Migrations\\20240915034449_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Esp32_MQTT.Server\\Migrations\\20240915034449_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\Esp32_MQTT.Server\\Migrations\\20240915034449_InitialCreate.cs",
+              "RelativeToolTip": "Esp32_MQTT.Server\\Migrations\\20240915034449_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T03:44:50.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\Esp32_MQTT.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "Esp32_MQTT.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\Esp32_MQTT.Server\\appsettings.json",
+              "RelativeToolTip": "Esp32_MQTT.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-15T03:40:14.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IMax30102Repository.cs",
+              "DocumentMoniker": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\Esp32_MQTT.Server\\Repositories\\IMax30102Repository.cs",
+              "RelativeDocumentMoniker": "Esp32_MQTT.Server\\Repositories\\IMax30102Repository.cs",
+              "ToolTip": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\Esp32_MQTT.Server\\Repositories\\IMax30102Repository.cs",
+              "RelativeToolTip": "Esp32_MQTT.Server\\Repositories\\IMax30102Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:29:45.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SQLMax30102Repository.cs",
+              "DocumentMoniker": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\Esp32_MQTT.Server\\Repositories\\SQLMax30102Repository.cs",
+              "RelativeDocumentMoniker": "Esp32_MQTT.Server\\Repositories\\SQLMax30102Repository.cs",
+              "ToolTip": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\Esp32_MQTT.Server\\Repositories\\SQLMax30102Repository.cs",
+              "RelativeToolTip": "Esp32_MQTT.Server\\Repositories\\SQLMax30102Repository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwAsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:29:50.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AddDataRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\Esp32_MQTT.Server\\Models\\DTO\\AddDataRequestDto.cs",
+              "RelativeDocumentMoniker": "Esp32_MQTT.Server\\Models\\DTO\\AddDataRequestDto.cs",
+              "ToolTip": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\Esp32_MQTT.Server\\Models\\DTO\\AddDataRequestDto.cs",
+              "RelativeToolTip": "Esp32_MQTT.Server\\Models\\DTO\\AddDataRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T10:51:44.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Max30102DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\Esp32_MQTT.Server\\Data\\Max30102DbContext.cs",
+              "RelativeDocumentMoniker": "Esp32_MQTT.Server\\Data\\Max30102DbContext.cs",
+              "ToolTip": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\Esp32_MQTT.Server\\Data\\Max30102DbContext.cs",
+              "RelativeToolTip": "Esp32_MQTT.Server\\Data\\Max30102DbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T13:48:31.322Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

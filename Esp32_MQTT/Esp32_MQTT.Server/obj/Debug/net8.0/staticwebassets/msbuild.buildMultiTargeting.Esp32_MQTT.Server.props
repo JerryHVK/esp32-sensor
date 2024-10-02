@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Esp32_MQTT.Server.props" />
+</Project>

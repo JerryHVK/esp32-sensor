@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\Esp32_MQTT.Server\\..\\esp32_mqtt.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
