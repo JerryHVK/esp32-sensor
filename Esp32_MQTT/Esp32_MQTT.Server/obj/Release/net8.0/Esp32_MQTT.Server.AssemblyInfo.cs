@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Esp32_MQTT.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28a67b9ff6ca47568b594ae98b84bba0b08eedc8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Esp32_MQTT.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Esp32_MQTT.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

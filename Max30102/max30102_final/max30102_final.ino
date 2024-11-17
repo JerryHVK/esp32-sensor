@@ -3,12 +3,14 @@
 #include "MAX30105.h"
 #include "heartRate.h"
 #include <PubSubClient.h>
+#define LED_PIN 4
 
 //  define the wifi and MQTT ip address
-
+// const char* ssid = "Khang"; 
+// const char* password = "11111111"; 
 const char* ssid = "K401"; 
 const char* password = "yasuott7"; 
-const char *mqtt_server = "172.20.10.2";
+const char *mqtt_server = "broker.emqx.io";
 const int mqtt_port = 1883;
 
 //  client for wifi connection
@@ -18,7 +20,6 @@ PubSubClient client(espClient);
 
 unsigned long lastMsg = 0;
 int led_state = LOW;
-
 
 MAX30105 particleSensor;
 const byte RATE_SIZE = 10; //Increase this for more averaging. 4 is good.
@@ -38,6 +39,8 @@ void setup() {
   // put your setup code here, to run once:
   Serial.begin(115200);
 
+  pinMode(LED_PIN, OUTPUT);
+
   //  setup the sensor MAX30102
   if (particleSensor.begin() == false)
   {
@@ -45,6 +48,7 @@ void setup() {
     while (1);
   } 
   particleSensor.setup();
+  Serial.println("MAX30102 setup successfully!");
   
   //  setup wifi
   setup_wifi();
@@ -54,7 +58,7 @@ void setup() {
 
   //  subscribe to a topic and set the callback function
   client.setCallback(callback); // callback only for subscribing
-  client.subscribe("esp32");
+  client.subscribe("khang/esp32");
 }
 
 // loop
@@ -69,6 +73,7 @@ void loop() {
   //  check the mqtt connection at each loop
   if (!client.connected()) {
     reconnect();
+    client.subscribe("khang/esp32");
   }
   client.loop();
 
@@ -98,7 +103,7 @@ void setup_wifi() {
     delay(500);
     Serial.print(".");
   }
-    
+  Serial.println("\nWiFi connected successfully");
   Serial.print("connected to : "); Serial.println(ssid);
   Serial.print("IP address: "); Serial.println(WiFi.localIP());
 }
@@ -109,16 +114,13 @@ void reconnect() {
   // Loop until we're reconnected
   while (!client.connected()) {
     Serial.print("Attempting MQTT connection...");
+
     // Create a random client ID
-    String clientId = "ESP8266Client-";
+    String clientId = "ESP32Client-";
     clientId += String(random(0xffff), HEX);
     // Attempt to connect
     if (client.connect(clientId.c_str())) {
       Serial.println("connected");
-      // Once connected, publish an announcement...
-      client.publish("outTopic", "hello world"); // edit the topic here
-      // ... and resubscribe
-      // client.subscribe("inTopic");
     } else {
       Serial.print("failed, rc=");
       Serial.print(client.state());
@@ -130,8 +132,15 @@ void reconnect() {
 }
 
 void callback(char* topic, byte* payload, unsigned int length) {
-  led_state = !led_state;
-  digitalWrite(LED_PIN, led_state);
+  if(led_state == LOW){
+    digitalWrite(LED_PIN, HIGH);
+    led_state = HIGH;
+  }
+  else{
+    digitalWrite(LED_PIN, LOW);
+    led_state = LOW;
+  }
+  // Serial.println("Change!");
 }
 
 // loop for getting data from sensor
@@ -179,5 +188,5 @@ void loop_for_data(){
 
 void send_data(){
   sprintf(myString, "%d", beatAvg);
-  client.publish("k", myString);
+  client.publish("khang/server", myString);
 }

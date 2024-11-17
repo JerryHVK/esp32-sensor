@@ -1,1 +1,2 @@
 C:\Users\hh\source\repos\Esp32_MQTT\esp32_mqtt.client\obj\Debug\esp32_mqtt.client.esproj.CoreCompileInputs.cache
+E:\OneDrive - Hanoi University of Science and Technology\Documents\IoT - Projects\esp32-sensor\Esp32_MQTT\esp32_mqtt.client\obj\Debug\esp32_mqtt.client.esproj.CoreCompileInputs.cache

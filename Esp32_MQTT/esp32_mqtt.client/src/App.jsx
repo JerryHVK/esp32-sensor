@@ -1,31 +1,62 @@
-import { useEffect, useState } from 'react';
+import { useState, useEffect } from 'react';
 import './App.css';
+import mqtt from 'mqtt';
 
 function App() {
     const [heartRate, setHeartRate] = useState();
 
-    useEffect(() => { fetchingHeartRate(); }, [])
+    useEffect(() => {
+        const client = mqtt.connect("wss://broker.emqx.io:8084/mqtt");
 
-    async function fetchingHeartRate() {
-        const response = await fetch('data');
-        const data = await response.json();
-        setHeartRate(data);
+        client.on("connect", () => {
+            client.subscribe("khang/server", (err) => {
+                if (err) {
+                    console.log("Subscribe failed");
+                }
+            });
+        });
+
+        client.on("message", (topic, payload) => {
+            setHeartRate(payload.toString());
+        });
+
+        return () => {
+            client.end();
+        };
+    }, []);
+
+    const saveDB = (heartRate) => {
+        const requestOptions = {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ heartRate: `${heartRate}` })
+        };
+        fetch('data', requestOptions);
     }
 
-    const contents = heartRate === undefined
-        ? <p>Put your finger on the device to measure your heart rate</p>
-        : <div><p>Your heart rate {heartRate.heartRate}</p></div>
-
+    const toggleLight = () => {
+        fetch("esp32/toggleLight");
+    }
 
     return (
         <div>
-            <h1>Heart Rate</h1>
-            <p>This component demonstrates fetching data from the server.</p>
-            {contents }
+            <p>Your Heart Rate: {heartRate}</p>
+            <div>
+                <button onClick={() => saveDB(heartRate)}>
+                    Save data
+                </button>
+            </div>
+            <div>
+                <button type="button" onClick={() => toggleLight()}>
+                    Toggle light
+                </button>
+                {/*or*/}
+                {/*<button type="button" onClick={toggleLight}>*/}
+                {/*    Toggle light*/}
+                {/*</button>*/}
+            </div>
         </div>
     );
-
 }
 
 export default App;
-

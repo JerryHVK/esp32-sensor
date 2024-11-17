@@ -11,7 +11,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
-builder.Services.AddHostedService<MqttService>();
+//builder.Services.AddHostedService<MqttService>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -24,8 +24,6 @@ options.UseSqlServer(builder.Configuration.GetConnectionString("Max30102Connecti
 builder.Services.AddScoped<IMax30102Repository, SQLMax30102Repository>();
 
 builder.Services.AddAutoMapper(typeof(AutoMapperProfiles));
-
-//builder.Services.AddScoped<IMqtt, LocalMqttService>();
 
 
 var app = builder.Build();
@@ -44,7 +42,6 @@ app.UseSwagger();
 app.UseSwaggerUI();
 
 app.UseHttpsRedirection();
-
 
 app.UseAuthorization();
 

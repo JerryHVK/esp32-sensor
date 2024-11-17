@@ -75,7 +75,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.SpaProxy/8.0.8": {
+      "Microsoft.AspNetCore.SpaProxy/8.0.10": {
         "type": "package",
         "compile": {
           "lib/net8.0/Microsoft.AspNetCore.SpaProxy.dll": {}
@@ -1744,10 +1744,10 @@
         "logo.png"
       ]
     },
-    "Microsoft.AspNetCore.SpaProxy/8.0.8": {
-      "sha512": "T9Zhb64OmOr2nU0iND7br44EfJrQYHpopxvq33l33uZM2Uu/V2GTHKg5OmGMO3XJuUX59fhqvMyXOcFFj6k1pA==",
+    "Microsoft.AspNetCore.SpaProxy/8.0.10": {
+      "sha512": "8oqu48JT85gDrgkS8nbrIBYY4R+u3twEnycD8zSJJUVfw+Y14BmkymSGtH413ev3hc4hq4le9fD0P5468NlNbg==",
       "type": "package",
-      "path": "microsoft.aspnetcore.spaproxy/8.0.8",
+      "path": "microsoft.aspnetcore.spaproxy/8.0.10",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1755,7 +1755,7 @@
         "THIRD-PARTY-NOTICES.TXT",
         "build/Microsoft.AspNetCore.SpaProxy.targets",
         "lib/net8.0/Microsoft.AspNetCore.SpaProxy.dll",
-        "microsoft.aspnetcore.spaproxy.8.0.8.nupkg.sha512",
+        "microsoft.aspnetcore.spaproxy.8.0.10.nupkg.sha512",
         "microsoft.aspnetcore.spaproxy.nuspec"
       ]
     },
@@ -4714,11 +4714,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\Esp32_MQTT.Server\\Esp32_MQTT.Server.csproj",
+      "projectUniqueName": "E:\\OneDrive - Hanoi University of Science and Technology\\Documents\\IoT - Projects\\esp32-sensor\\Esp32_MQTT\\Esp32_MQTT.Server\\Esp32_MQTT.Server.csproj",
       "projectName": "Esp32_MQTT.Server",
-      "projectPath": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\Esp32_MQTT.Server\\Esp32_MQTT.Server.csproj",
+      "projectPath": "E:\\OneDrive - Hanoi University of Science and Technology\\Documents\\IoT - Projects\\esp32-sensor\\Esp32_MQTT\\Esp32_MQTT.Server\\Esp32_MQTT.Server.csproj",
       "packagesPath": "C:\\Users\\hh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hh\\source\\repos\\Esp32_MQTT\\Esp32_MQTT.Server\\obj\\",
+      "outputPath": "E:\\OneDrive - Hanoi University of Science and Technology\\Documents\\IoT - Projects\\esp32-sensor\\Esp32_MQTT\\Esp32_MQTT.Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4811,7 +4811,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

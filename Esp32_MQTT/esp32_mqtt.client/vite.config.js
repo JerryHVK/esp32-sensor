@@ -46,6 +46,10 @@ export default defineConfig({
             '^/data': {
                 target,
                 secure: false
+            },
+            '^/esp32': {
+                target,
+                secure: false
             }
         },
         port: 5173,

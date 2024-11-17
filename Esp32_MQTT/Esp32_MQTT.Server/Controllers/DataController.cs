@@ -12,34 +12,38 @@ namespace Esp32_MQTT.Server.Controllers
     {
         private readonly IMax30102Repository max30102Repository;
         private readonly IMapper mapper;
-        //private readonly MqttService mqttService;
 
         public DataController(IMax30102Repository max30102Repository, IMapper mapper)
         {
             this.max30102Repository = max30102Repository;
             this.mapper = mapper;
-            //this.mqttService = mqttService;
         }
 
 
-        [HttpGet]
-        public async Task<IActionResult> GetNew()
-        {
-            var max30102 = await max30102Repository.GetNewAsync();
-            if(max30102 == null)
-            {
-                return NotFound();
-            }
-
-            return Ok(mapper.Map<GetDataRequestDto>(max30102));
-        }
-
+        // Get the data in database
         //[HttpGet]
-        //[Route("esp32")]
-        //public async Task<IActionResult> ToEsp32()
+        //public async Task<IActionResult> GetNew()
         //{
-        //    await mqttService.PublishTopic();
-        //    return Ok();
+        //    var max30102 = await max30102Repository.GetNewAsync();
+        //    if (max30102 == null)
+        //    {
+        //        return NotFound();
+        //    }
+
+        //    return Ok(mapper.Map<GetDataRequestDto>(max30102));
         //}
+
+
+        // Save the data to database
+        // POST: /data
+        [HttpPost]
+        public async Task<IActionResult> SaveToDb([FromBody] AddDataRequestDto addDataRequestDto)
+        {
+            var data = mapper.Map<Max30102>(addDataRequestDto);
+
+            await max30102Repository.CreateAsync(data);
+
+            return Ok(mapper.Map<GetDataRequestDto>(data));
+        }
     }
 }
